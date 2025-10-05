@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mehmet Kahraman
+# 👋 Hi, Stardust! EnterTheMatrix. I'm Mehmet Kahraman
 
 **Profession:**  
 Full-time waste management professional
@@ -20,7 +20,10 @@ Full-time waste management professional
 - Reading  
 - Walking  
 - Swimming  
-- Biking  
+- Biking
+- 👀 interested in physics, astronomy, data science
+- 🌱 currently learning on Patika.dev
+- 💞️ looking to collaborate on data science projects  
 
 **Connect with Me:**  
 - [LinkedIn](https://www.linkedin.com/in/mehmet-kahraman/)
