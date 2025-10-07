@@ -7,7 +7,7 @@ Full-time waste management professional
 
 **Technical Skills & Expertise:**  
 - Advanced proficiency in **Excel** and **SQL**
-- Solid foundation in **Python**, **Physics**, and **Math**
+- Solid foundation in  **Math**, **Physics**, **Python**, **TM1and**, **Tableau**, **PowerBI**
 
 **Certifications & Achievements:**  
 - SQL Intermediate  
