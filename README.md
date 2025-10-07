@@ -30,7 +30,7 @@ Full-time waste management professional
 **Connect with Me:**  
 - [LinkedIn](https://www.linkedin.com/in/mehmet-kahraman/)
 - [Email](mailto:dev.mehmetkahraman@outlook.com)
----
+
 **Fun Fact:**
 - ⚡ Fun fact: I'm a super hero!
 - ⚡ Whether I'm exploring new data sets or cycling through nature trails, I love combining analytical thinking with real-world problem-solving.
