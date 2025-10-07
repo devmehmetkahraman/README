@@ -1,4 +1,6 @@
 # 👋 Hi, Stardust! EnterTheMatrix. I'm Mehmet Kahraman
+- 👋 @devmehmetkahraman
+- 😄 Pronouns: he/him/his.
 
 **Profession:**  
 Full-time waste management professional
@@ -14,22 +16,26 @@ Full-time waste management professional
 - Data Science Math Skills  
 
 **Projects:**  
-*Add your GitHub project links here!*
+*GitHub project links here!*
 
 **Interests & Hobbies:**  
 - Reading  
 - Walking  
 - Swimming  
 - Biking
-- 👀 interested in physics, astronomy, data science
-- 🌱 currently learning on Patika.dev
-- 💞️ looking to collaborate on data science projects  
+- 👀 interested in physics, astronomy, data science, data analytics and art
+- 🌱 currently learning SQL, Python on Patika.dev
+- 💞️ looking to collaborate on data science and data analytics projects
 
 **Connect with Me:**  
 - [LinkedIn](https://www.linkedin.com/in/mehmet-kahraman/)
-- Email: dev.mehmetkahraman@outlook.com
-
+- [Email](mailto:dev.mehmetkahraman@outlook.com)
 ---
+**Fun Fact:**
+- ⚡ Fun fact: I'm a super hero!
+- ⚡ Whether I'm exploring new data sets or cycling through nature trails, I love combining analytical thinking with real-world problem-solving.
 
-**Fun Fact:**  
-Whether I'm exploring new data sets or cycling through nature trails, I love combining analytical thinking with real-world problem-solving.
+<!---
+devmehmetkahraman/README is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
