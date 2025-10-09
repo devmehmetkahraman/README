@@ -30,6 +30,7 @@ Full-time waste management professional
 **Connect with Me:**  
 - [LinkedIn](https://www.linkedin.com/in/mehmet-kahraman/)
 - [Email](mailto:dev.mehmetkahraman@outlook.com)
+- [Old Github account: Inactive](https://github.com/mehmetskahraman-zz) 
 
 **Fun Fact:**
 - ⚡ Fun fact: I'm a super hero!
